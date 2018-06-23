@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 h1, h2, h3, h4, h5, h5, h6, .header_main_menu_wrapper .header-menu li {
@@ -64,8 +64,8 @@ h6 {
 }
 
 .custom-content .btn-default:hover {
-	color:        #ffb300;
-	border-color: #ffb300;
+	color:        #3bb4a9;
+	border-color: #3bb4a9;
 }
 
 .wrapper-footer {
@@ -78,7 +78,7 @@ h6 {
 }
 
 .wrapper-footer a:hover {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .wrapper-footer .contact-info a {
@@ -86,7 +86,7 @@ h6 {
 }
 
 .wrapper-footer .contact-info a:hover {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .wrapper-footer .main-top-footer {
@@ -100,7 +100,7 @@ h6 {
 }
 
 .widget-area aside .widget-title:before {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .list-arrow li {
@@ -112,7 +112,7 @@ h6 {
 }
 
 .list-arrow li a:after {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .subscribe_shadow {
@@ -120,7 +120,7 @@ h6 {
 }
 
 .images_single_left .tour_after_title .meta_values:before, .images_single_left .tour_after_title .meta_date:before {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .interary-item .icon-left {
@@ -139,11 +139,11 @@ h6 {
 }
 
 .single-woo-tour .description_single .entry-content-tour p.price {
-	background-color: #ffb300;
+	background-color: #3bb4a9;
 }
 
 .single-woo-tour .description_single #tourBookingForm input[type="text"]:focus {
-	border-color: #ffb300;
+	border-color: #3bb4a9;
 }
 
 .navigation-menu {
@@ -151,12 +151,12 @@ h6 {
 }
 
 .search-toggler-unit .search-toggler {
-	border: 3px solid #ffb300;
-	color:  #ffb300;
+	border: 3px solid #3bb4a9;
+	color:  #3bb4a9;
 }
 
 .search-toggler-unit .search-toggler:before {
-	background-color: #ffb300;
+	background-color: #3bb4a9;
 }
 
 .header_top_bar {
@@ -193,7 +193,7 @@ h6 {
 }
 
 .post_images span.price {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .post_images .onsale {
@@ -209,11 +209,11 @@ h6 {
 }
 
 .read_more_button:hover, .travel_tour ul.products li.product .read_more .add_to_cart_button:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .item_rating i {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .site-content .entry-content {
@@ -263,15 +263,15 @@ h6 {
 }
 
 .post_list_content_unit .post-list-content .post_list_meta_unit .sticky_post {
-	background-color: #ffb300;
+	background-color: #3bb4a9;
 }
 
 .post_list_content_unit .post-list-content .post_list_meta_unit .border-meta-unit {
-	border: 2px solid #ffb300;
+	border: 2px solid #3bb4a9;
 }
 
 .post_list_content_unit .post-list-content .post_list_meta_unit .border-meta-unit .post_list_comment_num {
-	border-top: 2px solid #ffb300;
+	border-top: 2px solid #3bb4a9;
 }
 
 .post_list_content_unit .post-list-content .post_list_inner_content_unit .post_list_title a:hover {
@@ -279,16 +279,16 @@ h6 {
 }
 
 .post_list_content_unit .post-list-content .post_list_inner_content_unit .wrapper-meta .date-time:before, .post_list_content_unit .post-list-content .post_list_inner_content_unit .wrapper-meta .post_list_cats:before {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .post_list_content_unit .post-list-content .post_list_inner_content_unit .post_list_cats a:hover {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .hotel-booking-search form button {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 #tourBookingForm input[type="submit"] {
@@ -297,12 +297,12 @@ h6 {
 }
 
 #tourBookingForm input[type="submit"]:hover {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 #payment input[type="submit"]:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 	color:      #fff;
 }
 
@@ -332,8 +332,8 @@ h6 {
 }
 
 .travel_tour ul.products li.product .item-product .wrapper_content .button:hover, .travel_tour-page ul.products li.product .item-product .wrapper_content .button:hover, .travel_tour ul.products li.product .item-product .wrapper_content button:hover, .travel_tour-page ul.products li.product .item-product .wrapper_content button:hover {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .travel_tour ul.products .wc-backward, .travel_tour-page ul.products .wc-backward {
@@ -342,8 +342,8 @@ h6 {
 }
 
 .travel_tour ul.products .wc-backward:hover, .travel_tour-page ul.products .wc-backward:hover {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .travel_tour span.onsale, .travel_tour-page span.onsale {
@@ -351,15 +351,15 @@ h6 {
 }
 
 .travel_tour div.product .single-tour-tabs ul.tabs, .travel_tour-page div.product .single-tour-tabs ul.tabs {
-	border-bottom: 2px solid #ffb300;
+	border-bottom: 2px solid #3bb4a9;
 }
 
 .travel_tour div.product .single-tour-tabs ul.tabs li.active a, .travel_tour-page div.product .single-tour-tabs ul.tabs li.active a {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .travel_tour div.product .single-tour-tabs .entry-content, .travel_tour-page div.product .single-tour-tabs .entry-content {
-	border: 2px solid #ffb300;
+	border: 2px solid #3bb4a9;
 }
 
 .travel_tour div.product p.stock, .travel_tour-page div.product p.stock {
@@ -372,13 +372,13 @@ h6 {
 }
 
 .travel_tour div.product form.cart .button:hover, .travel_tour-page div.product form.cart .button:hover, .travel_tour div.product form.cart button:hover, .travel_tour-page div.product form.cart button:hover {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .travel_tour #review_form #respond .form-submit input, .travel_tour-page #review_form #respond .form-submit input {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .travel_tour #review_form #respond .form-submit input:hover, .travel_tour-page #review_form #respond .form-submit input:hover {
@@ -386,38 +386,38 @@ h6 {
 }
 
 .travel_tour .return-to-shop .button:hover, .travel_tour-page .return-to-shop .button:hover, .travel_tour .actions .button:hover, .travel_tour-page .actions .button:hover, .travel_tour .calculated_shipping .button:hover, .travel_tour-page .calculated_shipping .button:hover, .travel_tour .wc-proceed-to-checkout .button:hover, .travel_tour-page .wc-proceed-to-checkout .button:hover, .travel_tour .return-to-shop .button.alt:hover, .travel_tour-page .return-to-shop .button.alt:hover, .travel_tour .actions .button.alt:hover, .travel_tour-page .actions .button.alt:hover, .travel_tour .calculated_shipping .button.alt:hover, .travel_tour-page .calculated_shipping .button.alt:hover, .travel_tour .wc-proceed-to-checkout .button.alt:hover, .travel_tour-page .wc-proceed-to-checkout .button.alt:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 	color:      #fff;
 }
 
 .travel_tour .related.tours h2:before, .travel_tour-page .related.tours h2:before {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .travel_tour-checkout .travel_tour-info-login-form .travel_tour-info a, .travel_tour-checkout .travel_tour-info-coupon-message .travel_tour-info a {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .travel_tour-checkout .travel_tour-info-login-form .checkout_coupon .button:hover, .travel_tour-checkout .travel_tour-info-coupon-message .checkout_coupon .button:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 	color:      #fff;
 }
 
 .travel_tour-ResetPassword .form-row input.button:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 	color:      #fff;
 }
 
 .related.products h2:before, .up-sells h2:before {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .post_date:before {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .item-list-tour .content-list-tour .wrapper_content .content-left .post_date:before {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .item-list-tour .content-list-tour .wrapper_content .content-right .price {
@@ -426,7 +426,7 @@ h6 {
 }
 
 .item-list-tour .content-list-tour .wrapper_content .content-right .add_to_cart_button {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .item-list-tour .content-list-tour .wrapper_content .content-right .add_to_cart_button:hover {
@@ -446,45 +446,45 @@ h6 {
 }
 
 .form-subscribe-form-wrap .mc4wp-form .mc4wp-submit-button, .form-subscribe-form-wrap .epm-sign-up-form .epm-sign-up-button {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .search-overlay .search-form .search-submit {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .section-yellow {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .owl-theme .owl-controls .owl-dot.active span, .owl-theme .owl-controls.clickable .owl-dot:hover span {
-	background:   #ffb300;
-	border-color: #ffb300;
+	background:   #3bb4a9;
+	border-color: #3bb4a9;
 }
 
 .icon-btn {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .wpcf7-form .wpcf7-submit {
 	font-family: Roboto, Helvetica, Arial, sans-serif;
-	background:  #ffb300;
-	box-shadow:  0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background:  #3bb4a9;
+	box-shadow:  0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 #respond input#submit {
-	background: #ffb300;
-	box-shadow: 0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background: #3bb4a9;
+	box-shadow: 0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .counter-block .counter .number {
-	background-color: #ffb300;
-	box-shadow:       0 2px 0 0 rgba(255, 179, 0, 0.6);
+	background-color: #3bb4a9;
+	box-shadow:       0 2px 0 0 rgba(59, 180, 169, 0.6);
 }
 
 .stats_counter .stats_counter_number {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .hotel-booking-search form button, .form-subscribe-form-wrap .mc4wp-form .mc4wp-submit-button, .stats_counter .stats_counter_number, .stats_counter .stats_counter_title, .counter-block .counter, .header_main_menu_wrapper .header-menu li, .form-subscribe-form-wrap .epm-sign-up-form .epm-sign-up-button {
@@ -497,15 +497,15 @@ h6 {
 }
 
 .shortcode_title.title-decoration-bottom-center .line_after_title {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .discounts-tour .discounts-title span {
-	background-color: #ffb300;
+	background-color: #3bb4a9;
 }
 
 .comments-area .comment-list-inner li .comment-extra-info a:hover, .comments-area .comment-list-inner li .comment-extra-info .comment-reply-link:hover {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .widget_login_form .form_popup {
@@ -513,23 +513,23 @@ h6 {
 }
 
 .widget_login_form .form_popup .inner-form p input[type="submit"]:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .widget_login_form .form_popup .inner-form .lost-pass:hover {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .travel_tour .login input[type="submit"]:hover, .travel_tour-page .login input[type="submit"]:hover, .travel_tour .register input[type="submit"]:hover, .travel_tour-page .register input[type="submit"]:hover, .travel_tour .edit-account input[type="submit"]:hover, .travel_tour-page .edit-account input[type="submit"]:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .travel_tour .travel_tour-info .button:hover, .travel_tour-page .travel_tour-info .button:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .widget-area .search_tour {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .widget-area .search_tour button {
@@ -541,7 +541,7 @@ h6 {
 }
 
 .post-password-form input[type="Submit"]:hover {
-	background: #ffb300;
+	background: #3bb4a9;
 }
 
 .wrapper-special-tours .inner-special-tours .item_price .price {
@@ -552,7 +552,7 @@ h6 {
 }
 
 .sc-gallery .gallery-tabs-wrapper.filters li a.active {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 @media (min-width: 993px) {
 	.site-header .navbar-nav > li > ul.sub-menu {
@@ -564,15 +564,15 @@ h6 {
 	}
 
 	.site-header .navbar-nav > li > ul.sub-menu > li a:hover {
-		color: #ffb300;
+		color: #3bb4a9;
 	}
 
 	.navbar-nav > li:after {
-		border-color: transparent transparent #ffb300 transparent;
+		border-color: transparent transparent #3bb4a9 transparent;
 	}
 
 	.navbar-nav > li:before {
-		background: #ffb300;
+		background: #3bb4a9;
 	}
 
 	.navbar-nav > li > a {
@@ -582,20 +582,20 @@ h6 {
 	}
 
 	.navbar-nav > li.current-menu-item:after, .navbar-nav > li.current_page_parent:after, .navbar-nav > li.current-menu-ancestor:after {
-		border-color: transparent transparent #ffb300 transparent;
+		border-color: transparent transparent #3bb4a9 transparent;
 	}
 
 	.navbar-nav > li.current-menu-item:before, .navbar-nav > li.current_page_parent:before, .navbar-nav > li.current-menu-ancestor:before {
-		background: #ffb300;
+		background: #3bb4a9;
 	}
 
 	.navbar-nav > li.current-menu-item > a, .navbar-nav > li.current_page_parent > a, .navbar-nav > li.current-menu-ancestor > a {
-		color: #ffb300;
+		color: #3bb4a9;
 	}
 
 	.navbar-nav > li > ul.sub-menu {
 		background-color: #fff;
-		border-top:       3px solid #ffb300;
+		border-top:       3px solid #3bb4a9;
 	}
 
 	.navbar-nav > li > ul.sub-menu > li a {
@@ -603,7 +603,7 @@ h6 {
 	}
 
 	.navbar-nav > li > ul.sub-menu > li a:hover {
-		color: #ffb300;
+		color: #3bb4a9;
 	}
 }
 
@@ -615,7 +615,7 @@ h6 {
 	}
 
 	.menu-right li a:hover {
-		color: #ffb300;
+		color: #3bb4a9;
 	}
 
 	.width-logo {
@@ -639,7 +639,7 @@ h6 {
 	}
 
 	#mobile-demo li.current-menu-item > a, #mobile-demo li.current-menu-item > span {
-		color: #ffb300;
+		color: #3bb4a9;
 	}
 
 	.menu-mobile-effect span {
@@ -658,12 +658,12 @@ h6 {
 
 @media (max-width: 767px) {
 	.travel_tour div.product .single-tour-tabs .panel-group .panel-default .panel-title a:not(.collapsed), .travel_tour div.product .single-tour-tabs .panel-group .panel-default .panel-title a:hover {
-		background: #ffb300;
+		background: #3bb4a9;
 		color:      #fff;
 	}
 
 	.travel_tour div.product .single-tour-tabs .panel-group .panel-collapse {
-		border-color: #ffb300;
+		border-color: #3bb4a9;
 	}
 }
 

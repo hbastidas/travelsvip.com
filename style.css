@@ -2272,7 +2272,7 @@ input[type=radio]:checked:before {
 }
 
 .images_single_left .tour_after_title .travel_tour-product-rating .star-rating:before {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .images_single_left .tour_after_title .travel_tour-product-rating .travel_tour-review-link {
@@ -2724,11 +2724,11 @@ input[type=radio]:checked:before {
 }
 
 .travel_tour .star-rating span, .travel_tour-page .star-rating span {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .travel_tour .star-rating:before, .travel_tour-page .star-rating:before {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .travel_tour ul.products.wrapper-tours-slider, .travel_tour-page ul.products.wrapper-tours-slider {
@@ -3480,12 +3480,12 @@ input[type=radio]:checked:before {
 }
 
 .comment-respond p.stars {
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 #reviews .comment-text .star-rating {
 	float: right;
-	color: #ffb300;
+	color: #3bb4a9;
 }
 
 .comments-area .comment-respond-area #respond.comment-respond .comment-reply-title {
@@ -5620,7 +5620,7 @@ input[type=radio]:checked:before {
 	letter-spacing: 4px;
 	margin-top:     12px !important;
 	font-weight:    normal;
-	color:          #ffb300;
+	color:          #3bb4a9;
 }
 
 .item_rating .star-rating:before {
@@ -6987,7 +6987,7 @@ input[type=radio]:checked:before {
 	margin-top:    20px;
 	display:       inline-block;
 	color:         #fff;
-	background:    #ffb300;
+	background:    #3bb4a9;
 	font-size:     16px;
 	padding:       9px 28px;
 	border-radius: 0;
@@ -6996,7 +6996,7 @@ input[type=radio]:checked:before {
 
 .content-slider .btn-slider:hover {
 	background: #fff;
-	color:      #ffb300;
+	color:      #3bb4a9;
 }
 
 .sc-gallery .gallery_item-wrap {
@@ -8849,4 +8849,11 @@ input[type=radio]:checked:before {
 	.banner-typed .desc {
 		font-size: 1em;
 	}
+}
+
+.registermessage{
+	color: white;
+	padding-top: 30px;
+	font-size: 25px;
+	line-height: normal;
 }

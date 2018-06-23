@@ -1,0 +1,725 @@
+{
+  "index": "Inicio",
+  "Business": {
+    "hour": "Lun - Sab 10:00 am - 18:00 pm / Dom. Cerrados",
+    "phone": "+1 305 447 2987",
+    "address": "3725 SW 153rd Ct Miami, Fl 33185, EE.UU",
+    "email": "info@travelsvip.com"
+  },
+  "Login": "Cliente VIP",
+  "Register": "Reserva",
+  "home": {
+    "message1": "Ahorra más del 70%",
+    "message2": "y Viaja VIP con Precios de Mayorista",
+    "buttonprincipal": "COMPRAR AHORA"
+  },
+  "WHYCHOOSEUS": "¿Por qué viajar con VIPTRAVELS?",
+  "DiverseDestinations": "Todos los Destinos",
+  "DiverseDestinations_msg":"Descubre el mundo a 360°",
+  "ValueforMoney":"Somos Mayoristas",
+  "ValueforMoney_msg":"No somos intermediarios",
+  "BeautifulPlaces":"Garantizamos Hospedaje",
+  "BeautifulPlaces_msg":"Compra tus vacaciones y reserva cuando quieras",
+  "PassionateTravel":"Servicio Integral",
+  "PassionateTravel_msg":"Encuentra lo que necesites en un solo lugar.",
+  "TakeaLookatOur": "Descubre Nuestros",
+  "MOSTPOPULARTOURS": "DESTINOS MÁS POPULARES",
+  "FindaTourby":"Encuentra un Descuento",
+  "DESTINATION":"VIP POR DESTINO",
+  "SomestatisticsaboutTravel":"Estadisticas Reales Sobre",
+  "CENTERACHIEVEMENTS":"VIPTRAVELS",
+  "Customers":"CLIENTES",
+  "Destinations":"DESTINOS",
+  "packages": "PAQUETES",
+  "hotels": "HOTELES",
+  "BUYNOW": "COMPRA AHORA",
+  "DEALSANDDISCOUNTS": "OFERTAS Y DESCUENTOS",
+  "nomape":"Nombre y Apellido",
+  "pais": "País",
+  "telefono": "Telefono",
+  "email": "Email",
+  "moreinfo": "+ Info",
+  "special_message":"Destino Especial en Junio, Descubre Orlando 360° para 100 clientes y",
+  "special_message2":"ahorra 75%",
+  "special_message3":"¡Cupos limitado! Apúrate",
+  "DAYS": "DIAS",
+  "HOURS": "HORAS",
+  "MINUTES": "MINUTOS",
+  "SECONDS": "SEGUNDOS",
+  "copyright": "© 2018 - SOMOS VIP, LLC. TODOS LOS DERECHOS RESERVADOS.",
+  "businessally":"ALIADOS COMERCIALES",
+  "menu": [{
+      "caption": "Inicio",
+      "mnu_url": "/"
+    },
+    {
+      "mnu_url": "nosotros",
+      "caption": "Nosotros"
+    },
+
+    {
+      "caption": "Promociones",
+      "submenu": "true",
+      "datasubmenu": [{
+          "mnu_url": "?p=promo&d=orlando-360",
+          "caption": "ORLANDO 360"
+        },
+        {
+          "mnu_url": "?p=promo&d=mexico-que-arde",
+          "caption": "MEXICO ¡QUE ARDE!"
+        },
+        {
+          "mnu_url": "?p=promo&d=punta-cana-palm",
+          "caption": "PUNTA CANA PALM"
+        },
+        {
+          "mnu_url": "?p=promo&d=bahamas-festival",
+          "caption": "BAHAMAS FESTIVAL"
+        },
+        {
+          "mnu_url": "?p=promo&d=las-vegas-lux",
+          "caption": "LAS VEGAS LUX"
+        }
+      ]
+    },
+
+    {
+      "caption": "Hoteles",
+      "submenu": "true",
+      "datasubmenu": [{
+          "mnu_url": "#",
+          "caption": "Orlando",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=baymont-hotel",
+              "caption": "BAYMONT HOTEL"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=the-inn-calypso-cay",
+              "caption": "THE INN CALIPSO CAY"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=west-gate-lake-resorts",
+              "caption": "WEST GATE LAKE RESORTS"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=radisson-resorts",
+              "caption": "RADISSON RESORT"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=park-inn-by-radisson",
+              "caption": "PARK INN BY RADISSON"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=ramada-gateway",
+              "caption": "RAMADA GETAWAY"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=season-plaza",
+              "caption": "SEASON PLAZA"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=champion-world-resorts",
+              "caption": "CHAMPION WORLD RESORT"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=vacation-villages",
+              "caption": "VACATION VILLAGES"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=stay-stay-resorts",
+              "caption": "STAY STAY RESORT"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=calypso-cay-resorts",
+              "caption": "CALYPSO CAY RESORT"
+            }
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "Miami",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=newport-beach-side-resorts",
+              "caption": "NEWPORT BEACH SIDE RESORT"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=ramada-marco-polo",
+              "caption": "RAMADA MARCO POLO"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=deauville-beach-resorts",
+              "caption": "DEAUVILLE BEACH RESORT"
+            }
+
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "Fort Lauderdale",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=vacation-village-at-weston",
+              "caption": "VACATION VILLAGE AT WESTON"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=sawgrass-grand-hotele",
+              "caption": "SAWGRASS GRAND HOTEL"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=ramada-parkway",
+              "caption": "RAMADA PARKWAY"
+            }
+
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "Bahamas",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=gran-bahamas-resorts",
+              "caption": "GRAN BAHAMAS RESORT"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=flamingo-bay",
+              "caption": "FLAMINGO BAY"
+            }
+
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "Las Vegas",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=jockie-club",
+              "caption": "JOCKIE CLUB"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=carriage-house",
+              "caption": "CARRIAGE HOUSE"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=toscany-club-y-casino",
+              "caption": "TOSCANY CLUB & CASINO"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=stratosphera",
+              "caption": "STRATOSPHERA"
+            }
+
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "California",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=san-diago",
+              "caption": "SAN DIEGO"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=napavalley",
+              "caption": "NAPAVALLEY"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=lake-tahoe",
+              "caption": "LAKE TAHOE"
+            }
+
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "Cancun",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=cancun-bay-resorts",
+              "caption": "CANCUN BAY RESORT"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=hotel-beach-house",
+              "caption": "HOTEL BEACH HOUSE"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=villas-del-palmar",
+              "caption": "VILLAS DEL PALMAR"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=laguna-suite",
+              "caption": "LAGUNA SUITE"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=ocean-spa",
+              "caption": "OCEAN SPA"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=royal-sunset",
+              "caption": "ROYAL SUNSET"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=tukan",
+              "caption": "TUKAN"
+            }
+
+          ]
+        },
+        {
+          "mnu_url": "#",
+          "caption": "Punta Cana",
+          "subsubmenu": "true",
+          "datasubsubmenu": [{
+              "mnu_url": "?p=hoteles&d=memories-splash",
+              "caption": "MEMORIES SPLASH"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=alson-del-mar",
+              "caption": "ALSO DEL MAR"
+            },
+            {
+              "mnu_url": "?p=hoteles&d=bavaro-beach resorts",
+              "caption": "BAVARO BACH RESORT"
+            }
+
+          ]
+        }
+
+      ]
+    },
+
+
+    {
+      "mnu_url": "vuelos",
+      "caption": "Vuelos"
+    },
+    {
+      "mnu_url": "pagos",
+      "caption": "Pagos Online"
+    },
+    {
+      "mnu_url": "contactanos",
+      "caption": "Contactanos"
+    }
+  ],
+  "paquetes": [{
+    "item": {
+      "id": "orlando-360",
+      "title": "ORLANDO 360",
+      "duracion": "9 DIAS 8 NOCHES",
+      "price": "$447.00 x Persona",
+      "block1": "true",
+      "sortdescription": "4 Persona / Todo Incluido",
+      "sortdescription2": "Ahorra 75%",
+      "description": [{
+          "linea": "5 DIAS / 4 NOCHES (ORLANDO)"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES CRUCERO LAS BAHAMAS - ESTANCIA ISLA FREEPORT"
+        },
+        {
+          "linea": "ENTRETENIMIENTO / SHOWS / DISCOTECAS / CASINOS / ACTIVIDADES RECREATIVAS / NOCHE DE GALA"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES (MIAMI)"
+        }
+      ],
+      "Airport": "Aeropuerto Internacional Miami / Aeropuerto Internacional Orlando / Fort Lauderdale - Hollywood Aeropuerto Internacional",
+      "INCLUDED": [{
+          "linea": {
+            "col1": "Hospedajes",
+            "col2": "Crucero"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Comidas Estilo Buffet",
+            "col2": "Bebidas Refrescantes"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Transporte Hotel - Parques - Hotel",
+            "col2": "2 Entradas a Parques"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Vigencia: 18 meses (Disponibles todas las fechas y temporadas)",
+            "col2": "Min: 2 Pax / Max: 4 Pax"
+          }
+        }
+      ],
+      "NOTINCLUDED": [{
+        "linea": {
+          "col1": "Boletos Aereos",
+          "col2": "Impuestos Portuario / Hoteleros"
+        }
+      }],
+      "Itinerary": [{
+          "linea": {
+            "day": "1",
+            "title": "Destino 1: Orlando",
+            "description": "Comienza tus vacaciones en Orlando, sólo piensa en magia, diversión, aventura y mucho más que puedes encontrar en los parques de esta maravillosa ciudad. En Orlando podrás ir al lugar más feliz del mundo en la tierra de Disney en sus cuatro parques temáticos: Magic Kingdom, Epcot, Disney’s Animal Kingdom y Disney’s Hollywood Studios. Para los amantes del cine, volverán realidad su sueño de estar dentro de las pantallas en Universal Orlando Resort: Universal Studios Florida, Universal’s Islands of Adventure y Universal’s Volcano Bay. Para los viajeros que busquen educación, aventura y diversión el parque Legoland Florida está lleno de sorpresas. Y para los que busquen refrescarse en esta ciudad, los parques acuáticos están abiertos todo los días del año: Aquatica, SeaWorld’s Waterpark, Disney’s Typhoon Lagoon y Disney’s Blizzard Beach. Pero aparte de los famosos parques temáticos en Orlando hay una serie de hermosos jardines, museos, grandes restaurantes, a tracciones frente al mar, espectáculos y mucho más."
+          }
+        },
+        {
+          "linea": {
+            "day": "2",
+            "title": "Destino 2: Crucero Bahamas",
+            "description": "Continua tus vacaciones de ensueño, en el espectacular crucero por Las Bahamas. Descubre este destino ideal en una maravillosa embarcación, sintiéndote como en un hotel cinco estrellas lleno de lujo y confort. En el crucero hay actividades para todas las edades, mientras te relajas con un masaje en el Spa, tu pareja juega en el casino. o toma sol junto a la piscina y tus hijos disfrutan de las actividades y facilidades del crucero. Además contarán con restaurantes con menús para todos los gustos en las diversas opciones. Y al llegar a Las Bahamas hay muchas cosas que hacer, disfruta de las playas de blanca arena y agua transparente en el lugar más idílico del Caribe, puedes hacer snorkeling, nadar con delínes, hacer una excursión en bote con fondo de cristal para ver la increíble fauna marina o ir al Marketplace que queda muy cerca del puerto, es el lugar ideal para hacer compras. Te encuentras a un paso de realizar las vacaciones que siempre soñaste. Sólo VIPTRAVELS puede convertir este sueño en realidad."
+          }
+        },
+        {
+          "linea": {
+            "day": "3",
+            "title": "Destino 1: Miami",
+            "description": "Y qué más espectacular que analizar unas vacaciones en Miami, un paraíso en el Sur Este de la península del estado de La Florida, esta ciudad siempre está activa, es un destino turístico de sol y playa por excelencia, pero esta metrópoli tiene mucho más que ofrecer en sus zonas turísticas de ensueño, o el famoso Parque Nacional de Los Everglades, degustar comida en restaurantes con cocinas de todos los rincones del mundo, visitar las discotecas y pubs en Ocean Drive, pasar días enteros en centros comerciales gigantes con ropa y ofertas outlet, y lo mejor es que hay actividades para toda la familia, los más pequeños pueden disfrutar de un día divertido en el Zoo de Miami y todos pueden disfrutar las playas con aguas azules y cristalinas que bañan la una arena de la costa Este. Todo esto hace de Miami la combinación perfecta en un ambiente festivo para disfrutar de las mejores vacaciones de tu vida"
+          }
+        }
+      ],
+      "NOTICE": "LAS TARIFAS PROMEDIO PARA FINALIZAR LA RESERVA ESTAN SUJETAS A IMPUESTOS. ESTAS TARIFAS SON REQUERIDAS POR EL ESTADO DE FLORIDA Y SON POR PERSONA. LAS TARIFAS PUEDEN VARIAR SEGÚN LA FECHA DE VIAJE, LA CATEGORÍA DEL HOTEL Y LA DISPONIBILIDAD)."
+    }
+  }, {
+    "item": {
+      "id": "mexico-que-arde",
+      "title": "MEXICO ¡QUE ARDE!",
+      "duracion": "5 DIAS / 4 NOCHES",
+      "price": "$797.00 x 2 Personas",
+      "block1": "true",
+      "sortdescription": "2 Persona / Todo Incluido",
+      "sortdescription2": "Ahorra 57%",
+      "description": [{
+          "linea": "5 DIAS / 4 NOCHES"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES CRUCERO LAS BAHAMAS - ESTANCIA ISLA FREEPORT"
+        },
+        {
+          "linea": "ENTRETENIMIENTO / SHOWS / DISCOTECAS / CASINOS / ACTIVIDADES RECREATIVAS / NOCHE DE GALA"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES (MIAMI)"
+        }
+      ],
+      "Airport": "Aeropuerto Internacional Miami / Aeropuerto Internacional Orlando / Fort Lauderdale - Hollywood Aeropuerto Internacional",
+      "INCLUDED": [{
+          "linea": {
+            "col1": "Hospedajes",
+            "col2": "Crucero"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Comidas Estilo Buffet",
+            "col2": "Bebidas Refrescantes"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Transporte Hotel - Parques - Hotel",
+            "col2": "Auto por 8 dias"
+          }
+        },
+        {
+          "linea": {
+            "col1": "2 Entradas a Parques",
+            "col2": "Vigencia: 18 meses (Disponibles todas las fechas y temporadas)"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Min: 2 Pax / Max: 4 Pax"
+          }
+        }
+      ],
+      "NOTINCLUDED": [{
+        "linea": {
+          "col1": "Boletos Aereos",
+          "col2": "Impuestos Portuario / Hoteleros"
+        }
+      }],
+      "Itinerary": [{
+          "linea": {
+            "day": "1",
+            "title": "Destino 1: Orlando",
+            "description": "Comienza tus vacaciones en Orlando, sólo piensa en magia, diversión, aventura y mucho más que puedes encontrar en los parques de esta maravillosa ciudad. En Orlando podrás ir al lugar más feliz del mundo en la tierra de Disney en sus cuatro parques temáticos: Magic Kingdom, Epcot, Disney’s Animal Kingdom y Disney’s Hollywood Studios. Para los amantes del cine, volverán realidad su sueño de estar dentro de las pantallas en Universal Orlando Resort: Universal Studios Florida, Universal’s Islands of Adventure y Universal’s Volcano Bay. Para los viajeros que busquen educación, aventura y diversión el parque Legoland Florida está lleno de sorpresas. Y para los que busquen refrescarse en esta ciudad, los parques acuáticos están abiertos todo los días del año: Aquatica, SeaWorld’s Waterpark, Disney’s Typhoon Lagoon y Disney’s Blizzard Beach. Pero aparte de los famosos parques temáticos en Orlando hay una serie de hermosos jardines, museos, grandes restaurantes, a tracciones frente al mar, espectáculos y mucho más."
+          }
+        },
+        {
+          "linea": {
+            "day": "2",
+            "title": "Destino 2: Crucero Bahamas",
+            "description": "Continua tus vacaciones de ensueño, en el espectacular crucero por Las Bahamas. Descubre este destino ideal en una maravillosa embarcación, sintiéndote como en un hotel cinco estrellas lleno de lujo y confort. En el crucero hay actividades para todas las edades, mientras te relajas con un masaje en el Spa, tu pareja juega en el casino. o toma sol junto a la piscina y tus hijos disfrutan de las actividades y facilidades del crucero. Además contarán con restaurantes con menús para todos los gustos en las diversas opciones. Y al llegar a Las Bahamas hay muchas cosas que hacer, disfruta de las playas de blanca arena y agua transparente en el lugar más idílico del Caribe, puedes hacer snorkeling, nadar con delínes, hacer una excursión en bote con fondo de cristal para ver la increíble fauna marina o ir al Marketplace que queda muy cerca del puerto, es el lugar ideal para hacer compras. Te encuentras a un paso de realizar las vacaciones que siempre soñaste. Sólo VIPTRAVELS puede convertir este sueño en realidad."
+          }
+        },
+        {
+          "linea": {
+            "day": "3",
+            "title": "Destino 1: Miami",
+            "description": "Y qué más espectacular que analizar unas vacaciones en Miami, un paraíso en el Sur Este de la península del estado de La Florida, esta ciudad siempre está activa, es un destino turístico de sol y playa por excelencia, pero esta metrópoli tiene mucho más que ofrecer en sus zonas turísticas de ensueño, o el famoso Parque Nacional de Los Everglades, degustar comida en restaurantes con cocinas de todos los rincones del mundo, visitar las discotecas y pubs en Ocean Drive, pasar días enteros en centros comerciales gigantes con ropa y ofertas outlet, y lo mejor es que hay actividades para toda la familia, los más pequeños pueden disfrutar de un día divertido en el Zoo de Miami y todos pueden disfrutar las playas con aguas azules y cristalinas que bañan la una arena de la costa Este. Todo esto hace de Miami la combinación perfecta en un ambiente festivo para disfrutar de las mejores vacaciones de tu vida"
+          }
+        }
+      ],
+      "NOTICE": "LAS TARIFAS PROMEDIO PARA FINALIZAR LA RESERVA ESTAN SUJETAS A IMPUESTOS. ESTAS TARIFAS SON REQUERIDAS POR EL ESTADO DE FLORIDA Y SON POR PERSONA. LAS TARIFAS PUEDEN VARIAR SEGÚN LA FECHA DE VIAJE, LA CATEGORÍA DEL HOTEL Y LA DISPONIBILIDAD)."
+    }
+  }, {
+    "item": {
+      "id": "punta-cana-palm",
+      "title": "PUNTA CANA PALM",
+      "duracion": "5 DIAS / 4 NOCHES",
+      "price": "$797.00 x 2 Personas",
+      "sortdescription": "2 Persona / Todo Incluido",
+      "sortdescription2": "Ahorra 55%",
+      "description": [{
+          "linea": "5 DIAS / 4 NOCHES (ORLANDO)"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES CRUCERO LAS BAHAMAS - ESTANCIA ISLA FREEPORT"
+        },
+        {
+          "linea": "ENTRETENIMIENTO / SHOWS / DISCOTECAS / CASINOS / ACTIVIDADES RECREATIVAS / NOCHE DE GALA"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES (MIAMI)"
+        }
+      ],
+      "Airport": "Aeropuerto Internacional Miami / Aeropuerto Internacional Orlando / Fort Lauderdale - Hollywood Aeropuerto Internacional",
+      "INCLUDED": [{
+          "linea": {
+            "col1": "Hospedajes",
+            "col2": "Crucero"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Comidas Estilo Buffet",
+            "col2": "Bebidas Refrescantes"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Transporte Hotel - Parques - Hotel",
+            "col2": "Auto por 8 dias"
+          }
+        },
+        {
+          "linea": {
+            "col1": "2 Entradas a Parques",
+            "col2": "Vigencia: 18 meses (Disponibles todas las fechas y temporadas)"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Min: 2 Pax / Max: 4 Pax"
+          }
+        }
+      ],
+      "NOTINCLUDED": [{
+        "linea": {
+          "col1": "Boletos Aereos",
+          "col2": "Impuestos Portuario / Hoteleros"
+        }
+      }],
+      "Itinerary": [{
+          "linea": {
+            "day": "1",
+            "title": "Destino 1: Orlando",
+            "description": "Comienza tus vacaciones en Orlando, sólo piensa en magia, diversión, aventura y mucho más que puedes encontrar en los parques de esta maravillosa ciudad. En Orlando podrás ir al lugar más feliz del mundo en la tierra de Disney en sus cuatro parques temáticos: Magic Kingdom, Epcot, Disney’s Animal Kingdom y Disney’s Hollywood Studios. Para los amantes del cine, volverán realidad su sueño de estar dentro de las pantallas en Universal Orlando Resort: Universal Studios Florida, Universal’s Islands of Adventure y Universal’s Volcano Bay. Para los viajeros que busquen educación, aventura y diversión el parque Legoland Florida está lleno de sorpresas. Y para los que busquen refrescarse en esta ciudad, los parques acuáticos están abiertos todo los días del año: Aquatica, SeaWorld’s Waterpark, Disney’s Typhoon Lagoon y Disney’s Blizzard Beach. Pero aparte de los famosos parques temáticos en Orlando hay una serie de hermosos jardines, museos, grandes restaurantes, a tracciones frente al mar, espectáculos y mucho más."
+          }
+        },
+        {
+          "linea": {
+            "day": "2",
+            "title": "Destino 2: Crucero Bahamas",
+            "description": "Continua tus vacaciones de ensueño, en el espectacular crucero por Las Bahamas. Descubre este destino ideal en una maravillosa embarcación, sintiéndote como en un hotel cinco estrellas lleno de lujo y confort. En el crucero hay actividades para todas las edades, mientras te relajas con un masaje en el Spa, tu pareja juega en el casino. o toma sol junto a la piscina y tus hijos disfrutan de las actividades y facilidades del crucero. Además contarán con restaurantes con menús para todos los gustos en las diversas opciones. Y al llegar a Las Bahamas hay muchas cosas que hacer, disfruta de las playas de blanca arena y agua transparente en el lugar más idílico del Caribe, puedes hacer snorkeling, nadar con delínes, hacer una excursión en bote con fondo de cristal para ver la increíble fauna marina o ir al Marketplace que queda muy cerca del puerto, es el lugar ideal para hacer compras. Te encuentras a un paso de realizar las vacaciones que siempre soñaste. Sólo VIPTRAVELS puede convertir este sueño en realidad."
+          }
+        },
+        {
+          "linea": {
+            "day": "3",
+            "title": "Destino 1: Miami",
+            "description": "Y qué más espectacular que analizar unas vacaciones en Miami, un paraíso en el Sur Este de la península del estado de La Florida, esta ciudad siempre está activa, es un destino turístico de sol y playa por excelencia, pero esta metrópoli tiene mucho más que ofrecer en sus zonas turísticas de ensueño, o el famoso Parque Nacional de Los Everglades, degustar comida en restaurantes con cocinas de todos los rincones del mundo, visitar las discotecas y pubs en Ocean Drive, pasar días enteros en centros comerciales gigantes con ropa y ofertas outlet, y lo mejor es que hay actividades para toda la familia, los más pequeños pueden disfrutar de un día divertido en el Zoo de Miami y todos pueden disfrutar las playas con aguas azules y cristalinas que bañan la una arena de la costa Este. Todo esto hace de Miami la combinación perfecta en un ambiente festivo para disfrutar de las mejores vacaciones de tu vida"
+          }
+        }
+      ],
+      "NOTICE": "LAS TARIFAS PROMEDIO PARA FINALIZAR LA RESERVA ESTAN SUJETAS A IMPUESTOS. ESTAS TARIFAS SON REQUERIDAS POR EL ESTADO DE FLORIDA Y SON POR PERSONA. LAS TARIFAS PUEDEN VARIAR SEGÚN LA FECHA DE VIAJE, LA CATEGORÍA DEL HOTEL Y LA DISPONIBILIDAD)."
+    }
+  }, {
+    "item": {
+      "id": "bahamas-festival",
+      "title": "BAHAMAS FESTIVAL",
+      "duracion": "5 DIAS / 4 NOCHES",
+      "price": "$347.00 x Persona",
+      "block1": "true",
+      "sortdescription":"4 Persona / Todo Incluido",
+      "sortdescription2":"Ahorra 87%",
+      "description": [{
+          "linea": "5 DIAS / 4 NOCHES (ORLANDO)"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES CRUCERO LAS BAHAMAS - ESTANCIA ISLA FREEPORT"
+        },
+        {
+          "linea": "ENTRETENIMIENTO / SHOWS / DISCOTECAS / CASINOS / ACTIVIDADES RECREATIVAS / NOCHE DE GALA"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES (MIAMI)"
+        }
+      ],
+      "Airport": "Aeropuerto Internacional Miami / Aeropuerto Internacional Orlando / Fort Lauderdale - Hollywood Aeropuerto Internacional",
+      "INCLUDED": [{
+          "linea": {
+            "col1": "Hospedajes",
+            "col2": "Crucero"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Comidas Estilo Buffet",
+            "col2": "Bebidas Refrescantes"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Transporte Hotel - Parques - Hotel",
+            "col2": "Auto por 8 dias"
+          }
+        },
+        {
+          "linea": {
+            "col1": "2 Entradas a Parques",
+            "col2": "Vigencia: 18 meses (Disponibles todas las fechas y temporadas)"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Min: 2 Pax / Max: 4 Pax"
+          }
+        }
+      ],
+      "NOTINCLUDED": [{
+        "linea": {
+          "col1": "Boletos Aereos",
+          "col2": "Impuestos Portuario / Hoteleros"
+        }
+      }],
+      "Itinerary": [{
+          "linea": {
+            "day": "1",
+            "title": "Destino 1: Orlando",
+            "description": "Comienza tus vacaciones en Orlando, sólo piensa en magia, diversión, aventura y mucho más que puedes encontrar en los parques de esta maravillosa ciudad. En Orlando podrás ir al lugar más feliz del mundo en la tierra de Disney en sus cuatro parques temáticos: Magic Kingdom, Epcot, Disney’s Animal Kingdom y Disney’s Hollywood Studios. Para los amantes del cine, volverán realidad su sueño de estar dentro de las pantallas en Universal Orlando Resort: Universal Studios Florida, Universal’s Islands of Adventure y Universal’s Volcano Bay. Para los viajeros que busquen educación, aventura y diversión el parque Legoland Florida está lleno de sorpresas. Y para los que busquen refrescarse en esta ciudad, los parques acuáticos están abiertos todo los días del año: Aquatica, SeaWorld’s Waterpark, Disney’s Typhoon Lagoon y Disney’s Blizzard Beach. Pero aparte de los famosos parques temáticos en Orlando hay una serie de hermosos jardines, museos, grandes restaurantes, a tracciones frente al mar, espectáculos y mucho más."
+          }
+        },
+        {
+          "linea": {
+            "day": "2",
+            "title": "Destino 2: Crucero Bahamas",
+            "description": "Continua tus vacaciones de ensueño, en el espectacular crucero por Las Bahamas. Descubre este destino ideal en una maravillosa embarcación, sintiéndote como en un hotel cinco estrellas lleno de lujo y confort. En el crucero hay actividades para todas las edades, mientras te relajas con un masaje en el Spa, tu pareja juega en el casino. o toma sol junto a la piscina y tus hijos disfrutan de las actividades y facilidades del crucero. Además contarán con restaurantes con menús para todos los gustos en las diversas opciones. Y al llegar a Las Bahamas hay muchas cosas que hacer, disfruta de las playas de blanca arena y agua transparente en el lugar más idílico del Caribe, puedes hacer snorkeling, nadar con delínes, hacer una excursión en bote con fondo de cristal para ver la increíble fauna marina o ir al Marketplace que queda muy cerca del puerto, es el lugar ideal para hacer compras. Te encuentras a un paso de realizar las vacaciones que siempre soñaste. Sólo VIPTRAVELS puede convertir este sueño en realidad."
+          }
+        },
+        {
+          "linea": {
+            "day": "3",
+            "title": "Destino 1: Miami",
+            "description": "Y qué más espectacular que analizar unas vacaciones en Miami, un paraíso en el Sur Este de la península del estado de La Florida, esta ciudad siempre está activa, es un destino turístico de sol y playa por excelencia, pero esta metrópoli tiene mucho más que ofrecer en sus zonas turísticas de ensueño, o el famoso Parque Nacional de Los Everglades, degustar comida en restaurantes con cocinas de todos los rincones del mundo, visitar las discotecas y pubs en Ocean Drive, pasar días enteros en centros comerciales gigantes con ropa y ofertas outlet, y lo mejor es que hay actividades para toda la familia, los más pequeños pueden disfrutar de un día divertido en el Zoo de Miami y todos pueden disfrutar las playas con aguas azules y cristalinas que bañan la una arena de la costa Este. Todo esto hace de Miami la combinación perfecta en un ambiente festivo para disfrutar de las mejores vacaciones de tu vida"
+          }
+        }
+      ],
+      "NOTICE": "LAS TARIFAS PROMEDIO PARA FINALIZAR LA RESERVA ESTAN SUJETAS A IMPUESTOS. ESTAS TARIFAS SON REQUERIDAS POR EL ESTADO DE FLORIDA Y SON POR PERSONA. LAS TARIFAS PUEDEN VARIAR SEGÚN LA FECHA DE VIAJE, LA CATEGORÍA DEL HOTEL Y LA DISPONIBILIDAD)."
+    }
+  }, {
+    "item": {
+      "id": "las-vegas-lux",
+      "title": "LAS VEGAS LUX",
+      "duracion": "5 DIAS / 4 NOCHES",
+      "price": "$347.00 x Persona",
+      "sortdescription": "4 Persona / Todo Incluido",
+      "sortdescription2": "Ahorra 67%",
+      "description": [{
+          "linea": "5 DIAS / 4 NOCHES (ORLANDO)"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES CRUCERO LAS BAHAMAS - ESTANCIA ISLA FREEPORT"
+        },
+        {
+          "linea": "ENTRETENIMIENTO / SHOWS / DISCOTECAS / CASINOS / ACTIVIDADES RECREATIVAS / NOCHE DE GALA"
+        },
+        {
+          "linea": "3 DIAS / 2 NOCHES (MIAMI)"
+        }
+      ],
+      "Airport": "Aeropuerto Internacional Miami / Aeropuerto Internacional Orlando / Fort Lauderdale - Hollywood Aeropuerto Internacional",
+      "INCLUDED": [{
+          "linea": {
+            "col1": "Hospedajes",
+            "col2": "Crucero"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Comidas Estilo Buffet",
+            "col2": "Bebidas Refrescantes"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Transporte Hotel - Parques - Hotel",
+            "col2": "Auto por 8 dias"
+          }
+        },
+        {
+          "linea": {
+            "col1": "2 Entradas a Parques",
+            "col2": "Vigencia: 18 meses (Disponibles todas las fechas y temporadas)"
+          }
+        },
+        {
+          "linea": {
+            "col1": "Min: 2 Pax / Max: 4 Pax"
+          }
+        }
+      ],
+      "NOTINCLUDED": [{
+        "linea": {
+          "col1": "Boletos Aereos",
+          "col2": "Impuestos Portuario / Hoteleros"
+        }
+      }],
+      "Itinerary": [{
+          "linea": {
+            "day": "1",
+            "title": "Destino 1: Orlando",
+            "description": "Comienza tus vacaciones en Orlando, sólo piensa en magia, diversión, aventura y mucho más que puedes encontrar en los parques de esta maravillosa ciudad. En Orlando podrás ir al lugar más feliz del mundo en la tierra de Disney en sus cuatro parques temáticos: Magic Kingdom, Epcot, Disney’s Animal Kingdom y Disney’s Hollywood Studios. Para los amantes del cine, volverán realidad su sueño de estar dentro de las pantallas en Universal Orlando Resort: Universal Studios Florida, Universal’s Islands of Adventure y Universal’s Volcano Bay. Para los viajeros que busquen educación, aventura y diversión el parque Legoland Florida está lleno de sorpresas. Y para los que busquen refrescarse en esta ciudad, los parques acuáticos están abiertos todo los días del año: Aquatica, SeaWorld’s Waterpark, Disney’s Typhoon Lagoon y Disney’s Blizzard Beach. Pero aparte de los famosos parques temáticos en Orlando hay una serie de hermosos jardines, museos, grandes restaurantes, a tracciones frente al mar, espectáculos y mucho más."
+          }
+        },
+        {
+          "linea": {
+            "day": "2",
+            "title": "Destino 2: Crucero Bahamas",
+            "description": "Continua tus vacaciones de ensueño, en el espectacular crucero por Las Bahamas. Descubre este destino ideal en una maravillosa embarcación, sintiéndote como en un hotel cinco estrellas lleno de lujo y confort. En el crucero hay actividades para todas las edades, mientras te relajas con un masaje en el Spa, tu pareja juega en el casino. o toma sol junto a la piscina y tus hijos disfrutan de las actividades y facilidades del crucero. Además contarán con restaurantes con menús para todos los gustos en las diversas opciones. Y al llegar a Las Bahamas hay muchas cosas que hacer, disfruta de las playas de blanca arena y agua transparente en el lugar más idílico del Caribe, puedes hacer snorkeling, nadar con delínes, hacer una excursión en bote con fondo de cristal para ver la increíble fauna marina o ir al Marketplace que queda muy cerca del puerto, es el lugar ideal para hacer compras. Te encuentras a un paso de realizar las vacaciones que siempre soñaste. Sólo VIPTRAVELS puede convertir este sueño en realidad."
+          }
+        },
+        {
+          "linea": {
+            "day": "3",
+            "title": "Destino 1: Miami",
+            "description": "Y qué más espectacular que analizar unas vacaciones en Miami, un paraíso en el Sur Este de la península del estado de La Florida, esta ciudad siempre está activa, es un destino turístico de sol y playa por excelencia, pero esta metrópoli tiene mucho más que ofrecer en sus zonas turísticas de ensueño, o el famoso Parque Nacional de Los Everglades, degustar comida en restaurantes con cocinas de todos los rincones del mundo, visitar las discotecas y pubs en Ocean Drive, pasar días enteros en centros comerciales gigantes con ropa y ofertas outlet, y lo mejor es que hay actividades para toda la familia, los más pequeños pueden disfrutar de un día divertido en el Zoo de Miami y todos pueden disfrutar las playas con aguas azules y cristalinas que bañan la una arena de la costa Este. Todo esto hace de Miami la combinación perfecta en un ambiente festivo para disfrutar de las mejores vacaciones de tu vida"
+          }
+        }
+      ],
+      "NOTICE": "LAS TARIFAS PROMEDIO PARA FINALIZAR LA RESERVA ESTAN SUJETAS A IMPUESTOS. ESTAS TARIFAS SON REQUERIDAS POR EL ESTADO DE FLORIDA Y SON POR PERSONA. LAS TARIFAS PUEDEN VARIAR SEGÚN LA FECHA DE VIAJE, LA CATEGORÍA DEL HOTEL Y LA DISPONIBILIDAD)."
+    }
+  }],
+  "Price": "Precio",
+  "ProductDescription": "Descripción del Producto",
+  "Airport": "AEROPUERTO",
+  "INCLUDED": "INCLUYE",
+  "NOTINCLUDED": "NO INCLUYE",
+  "Description": "Descripción",
+  "Itinerary": "Intinerario",
+  "Location": "Ubicacion",
+  "Reviews": "Comentarios",
+  "promotions": "Promociones"
+}

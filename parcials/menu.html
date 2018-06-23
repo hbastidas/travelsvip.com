@@ -1,0 +1,90 @@
+<nav class="width-navigation">
+  <ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
+
+    {{# menu }}
+      <li class="menu-item-has-children">
+        <a href="{{mnu_url}}">{{caption}}</a>
+      {{# submenu }}
+        <ul class="sub-menu">
+          {{# datasubmenu }}
+          <li>
+              <a href="{{mnu_url}}">{{caption}}</a>
+            {{# subsubmenu }}
+              <ul class="sub-menu">
+                {{# datasubsubmenu }}
+                <li>
+                    <a href="{{mnu_url}}">{{caption}}</a>
+                </li>
+                {{/ datasubsubmenu }}
+              </ul>
+            {{/ subsubmenu }}
+          </li>
+          {{/ datasubmenu }}
+        </ul>
+      {{/ submenu }}
+      </li>
+    {{/ menu }}
+    <!--<li class="current-menu-ancestor current-menu-parent">-->
+    <!--
+    <li>
+      <a href="?p=index">{{index}}</a>
+      <ul class="sub-menu">
+        <li><a href="?p=index">{{index}}</a></li>
+        <li><a href="?p=home-2">{{home-2}}</a></li>
+        <li><a href="?p=home-3">{{home-3}}</a></li>
+        <li><a href="?p=home-4">{{home-4}}</a></li>
+      </ul>
+    </li>
+    <li class="menu-item-has-children">
+      <a href="?p=tours">{{tours}}</a>
+      <ul class="sub-menu">
+        <li><a href="?p=single-tour">{{single-tour}}</a></li>
+        <li><a href="#">Layout</a>
+          <ul class="sub-menu">
+            <li><a href="?p=tours-list">{{tour-list}}</a></li>
+            <li><a href="?p=tours-2-cols">{{tours-2-cols}}</a></li>
+            <li><a href="?p=tours">{{tours}}</a></li>
+            <li><a href="?p=tours-3-cols">{{tours-3-cols}}</a></li>
+            <li><a href="?p=tours-4-cols">{{tours-4-cols}}</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <li><a href="?p=destinations">{{destinations}}</a></li>
+    <li><a href="?p=blog">{{blog}}</a></li>
+
+    <li class="menu-item-has-children">
+      <a href="#">Pages</a>
+      <ul class="sub-menu">
+        <li><a href="?p=gallery">{{gallery}}</a></li>
+        <li><a href="?p=travel-tips">{{travel-tips}}</a></li>
+        <li><a href="?p=typography">{{typography}}</a></li>
+        <li><a href="?p=checkout">{{checkout}}</a></li>
+      </ul>
+    </li>
+    <li><a href="?p=contact">{{contact}}</a></li>
+  -->
+    {{dinamic_mnu}}
+    <!-- static menu -->
+    <li class="menu-right">
+      <ul>
+        <li id="travel_social_widget-2" class="widget travel_search">
+          <div class="search-toggler-unit">
+            <div class="search-toggler">
+              <i class="fa fa-search"></i>
+            </div>
+          </div>
+          <div class="search-menu search-overlay search-hidden">
+            <div class="closeicon"></div>
+            <form method="get" class="search-form" action="?p=tours">
+              <input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:">
+              <input type="submit" class="search-submit font-awesome" value="&#xf002;">
+            </form>
+            <div class="background-overlay"></div>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
